@@ -89,4 +89,4 @@ I aspire to contribute to innovative teams, continuously improve my technical ex
 
 I'm always interested in learning, building, and exploring new ideas in **AI and Machine Learning**.
 
-**GitHub:** [@marwanTamer](https://github.com/marwanTamer)
+**GitHub:** [@marwanTamer](https://github.com/marawanTamer)
